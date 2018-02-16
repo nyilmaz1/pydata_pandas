@@ -1,13 +1,13 @@
-# Introduction to data analytics with pandas
+# Introduction to data analytics with pandas 
+### by Quentin CAUDRON
 
-## A workshop for PyData Seattle, July 2017
+### A workshop for PyData Seattle, July 2017
 
-There are two notebooks here : the [exercise notebook](https://github.com/QCaudron/pydata_pandas/blob/master/coffee_analysis_exercise.ipynb) and the [solutions notebook](https://github.com/QCaudron/pydata_pandas/blob/master/coffee_analysis_solution.ipynb). If you want to follow along, grab the exercise notebook. Both contain additional notes which will be discussed verbally in the workshop.
 
-#### Flow
+This is an introductory tutorial to python package pandas by Quentin Caudron. I watched the tutorial on YouTube and applied the steps given. It is a great tutorial to practice pandas with a real data. This dataset includes the information about how much coffee was consumed, the dates the information were entered, and who entered the information. For more information, visit QCaudron.
 
-This workshop walks through a possible start to an exploratory analysis on a real-world dataset. The only Python package used is `pandas`.
 
-#### Data
+I made two changes in the Jupyter notebook because I got an error on two codes. I specified where I made changes in my updated notebook. Look at the cells that says "Change" with a red color. 
 
-The data was collected at the Centre for Complexity Science, at the University of Warwick. 
+
+
